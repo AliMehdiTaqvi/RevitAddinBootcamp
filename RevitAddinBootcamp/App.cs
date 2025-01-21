@@ -5,8 +5,8 @@ namespace RevitAddinBootcamp
         public Result OnStartup(UIControlledApplication app)
         {
             // 1. Set up ribbon tab and panel names
-            string tabName = "Revit Add-in Bootcamp";
-            string panelName = "Challenges";
+            string tabName = "Santiago Calatrava";
+            string panelName = "Ali Plugins";
 
             // 1. Create ribbon tab
             app.CreateRibbonTab(tabName);
